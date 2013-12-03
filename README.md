@@ -1,5 +1,5 @@
 # open-source-mouse
-## ==============  
+## ==============   
 This document is made by [gitfab](http://gitfab.org)
 ---
 #ふっと🐭
@@ -27,4 +27,8 @@ This document is made by [gitfab](http://gitfab.org)
 ![1386049965221.jpg](https://raw.github.com/lilyuryuri/open-source-mouse/master/gitfab/resources/1386049965221.jpg)
 
 ![1386049954681.jpg](https://raw.github.com/lilyuryuri/open-source-mouse/master/gitfab/resources/1386049954681.jpg)
+
+より使いやすく、ではなく
+より使いにくくする！！！！
+
 ---
