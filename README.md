@@ -21,8 +21,13 @@ This document is made by [gitfab](http://gitfab.org)
 
 パソコン作業、エクササイズ、時間短縮、、一石三鳥🐭！！！！
 
+だらだらとパソコンをいじる時間を減らし、
+その結果、効率をもよくしてしまう！
+
 より使いやすく、ではなく
-より使いにくくする！！！
+より使いにくくするのである！！！
+
+
 
 
 ![1386049934052.jpg](https://raw.github.com/lilyuryuri/open-source-mouse/master/gitfab/resources/1386049934052.jpg)
