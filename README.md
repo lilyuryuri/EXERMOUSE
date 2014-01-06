@@ -11,4 +11,6 @@ This document is made by [gitfab](http://gitfab.org)
 
 より使いやすく、ではなく より使いにくくするのである！！！
 
+
+[デザイン５](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン５)
 ---
