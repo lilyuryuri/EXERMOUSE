@@ -30,4 +30,31 @@ This document is made by [gitfab](http://gitfab.org)
  ③タイヤのチューブを半分におり、真ん中に印をつけ、マウスにあけた穴にネジで固定する。（反対側も同様） ↓ 
 ④ベルトコンベアーのゴムだけでは動かしたときにひっぱる力に負けてしまうため、同じサイズのベニヤ板をゴムに強力両面テープでひっつけて頑丈な土台を作る。 ↓ 
 ⑤土台のゴムの四方の端に、先ほどマウスにとりつけたチューブの端を、１回中折りして(ネジでとめたときに強度が増すため)から、ネジで固定。
+
+
+（完成形）
+
+![デザイン５.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン５.jpg)
+
+
+（手順）
+
+![デザイン２.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン２.jpg)
+
+![デザイン３.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン３.jpg)
+
+![デザイン４.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン４.jpg)
+
+![デザイン.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン.jpg)
+
+
+↑マットな質感。無機質になるポイント。
+
+![デザイン６.jpg](https://raw.github.com/lilyuryuri/EXERMOUSE/master/gitfab/resources/デザイン６.jpg)
+
+
+
+[これから]
+コメディ要素を含ませるため、面白いロゴをつくる！
+
 ---
