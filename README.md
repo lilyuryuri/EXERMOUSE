@@ -57,4 +57,5 @@ This document is made by [gitfab](http://gitfab.org)
 [これから]
 コメディ要素を含ませるため、面白いロゴをつくる！
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/jwkvyoBc4us" frameborder="0" allowfullscreen></iframe>
 ---
